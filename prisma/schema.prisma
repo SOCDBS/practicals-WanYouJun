@@ -153,4 +153,4 @@ model studModPerformance {
 
   @@id([admNo, modRegistered])
   @@map("stud_mod_performance")
-}
+} 
